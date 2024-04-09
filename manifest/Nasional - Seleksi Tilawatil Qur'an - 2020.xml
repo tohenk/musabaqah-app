@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Manifest name="Seleksi Tilawatil Qur'an - 2020">
+    <!-- Options definition -->
+    <Options>
+        <!-- Terms -->
+        <Option id="TERMS|CABANG"                           value="Cabang"/>
+        <Option id="TERMS|GOLONGAN"                         value="Golongan"/>
+        <Option id="TERMS|BIDANG"                           value="Bidang"/>
+        <Option id="TERMS|UNSUR"                            value="Unsur"/>
+        <Option id="TERMS|KAFILAH"                          value="Kafilah"/>
+        <!-- Misc -->
+        <Option id="TERMS|PESERTA.GANJIL"                   value="PESERTA PUTRI"/>
+        <Option id="TERMS|PESERTA.GENAP"                    value="PESERTA PUTRA"/>
+        <Option id="Settings|IntervalAB"                    value="1"/>
+    </Options>
+    <!-- Manifest data -->
+    <Datas>
+        <!-- SENI BACA AL-QUR'AN -->
+        <Cabang name="SENI BACA AL-QUR'AN" type="penjurian1">
+            <Golongan name="ANAK-ANAK" unsur="0" bobot="0" personil="1" gender="1" waktu="1" topik="0" umur="15" time="8" warn="60" fmt="000" nomor="101" undian="1" stage="SIMPLETL">
+                <Bidang name="TAJWID"                       min="0" max="30" urut="1" interval="2"/>
+                <Bidang name="FASHAHAH"                     min="0" max="30" urut="4" interval="2"/>
+                <Bidang name="LAGU"                         min="0" max="25" urut="2" interval="2"/>
+                <Bidang name="SUARA"                        min="0" max="15" urut="3" interval="2"/>
+            </Golongan>
+            <Golongan name="DEWASA" unsur="0" bobot="0" personil="1" gender="1" waktu="1" topik="0" umur="41" time="10" warn="60" fmt="000" nomor="301" undian="1" stage="SIMPLETL">
+                <Bidang name="TAJWID"                       min="0" max="30" urut="1" interval="2"/>
+                <Bidang name="FASHAHAH"                     min="0" max="30" urut="4" interval="2"/>
+                <Bidang name="LAGU"                         min="0" max="25" urut="2" interval="2"/>
+                <Bidang name="SUARA"                        min="0" max="15" urut="3" interval="2"/>
+            </Golongan>
+        </Cabang>
+        <!-- HAFALAN AL-QUR'AN -->
+        <Cabang name="HAFALAN AL-QUR'AN" type="penjurian1">
+            <Golongan name="1 JUZ DAN TILAWAH" unsur="0" bobot="0" personil="1" gender="1" waktu="1" topik="0" umur="16" time="8" warn="60" fmt="000" nomor="101" undian="1" stage="SIMPLETL">
+                <Bidang name="TAJWID"                       bidang="TILAWAH" min="0" max="30" urut="2" interval="2"/>
+                <Bidang name="FASHAHAH"                     bidang="TILAWAH" min="0" max="30" urut="7" interval="2"/>
+                <Bidang name="LAGU"                         bidang="TILAWAH" min="0" max="25" urut="4" interval="2"/>
+                <Bidang name="SUARA"                        bidang="TILAWAH" min="0" max="15" urut="5" interval="2"/>
+                <Bidang name="TAHFIDZ"                      bidang="TAHFIDZ" min="0" max="50" urut="8" interval="2"/>
+                <Bidang name="TAJWID"                       bidang="TAHFIDZ" min="0" max="25" urut="3" interval="2"/>
+                <Bidang name="FASHAHAH"                     bidang="TAHFIDZ" min="0" max="25" urut="6" interval="2"/>
+                <Prioritas bidang="TAHFIDZ" urut="1"/>
+            </Golongan>
+            <Golongan name="5 JUZ DAN TILAWAH" unsur="0" bobot="0" personil="1" gender="1" waktu="1" topik="0" umur="21" time="9" warn="60" fmt="000" nomor="201" undian="1" stage="SIMPLETL">
+                <Bidang name="TAJWID"                       bidang="TILAWAH" min="0" max="30" urut="2" interval="2"/>
+                <Bidang name="FASHAHAH"                     bidang="TILAWAH" min="0" max="30" urut="4" interval="2"/>
+                <Bidang name="LAGU"                         bidang="TILAWAH" min="0" max="25" urut="7" interval="2"/>
+                <Bidang name="SUARA"                        bidang="TILAWAH" min="0" max="15" urut="5" interval="2"/>
+                <Bidang name="TAHFIDZ"                      bidang="TAHFIDZ" min="0" max="50" urut="8" interval="2"/>
+                <Bidang name="TAJWID"                       bidang="TAHFIDZ" min="0" max="25" urut="3" interval="2"/>
+                <Bidang name="FASHAHAH"                     bidang="TAHFIDZ" min="0" max="25" urut="6" interval="2"/>
+                <Prioritas bidang="TAHFIDZ" urut="1"/>
+            </Golongan>
+            <Golongan name="10 JUZ" unsur="0" bobot="0" personil="1" gender="1" waktu="1" topik="0" umur="23" time="0" warn="0" fmt="000" nomor="301" undian="1" stage="STOPWATCH">
+                <Bidang name="TAHFIDZ"                      min="0" max="50" urut="1" interval="2"/>
+                <Bidang name="TAJWID"                       min="0" max="25" urut="2" interval="2"/>
+                <Bidang name="FASHAHAH"                     min="0" max="25" urut="3" interval="2"/>
+            </Golongan>
+            <Golongan name="20 JUZ" unsur="0" bobot="0" personil="1" gender="1" waktu="1" topik="0" umur="23" time="0" warn="0" fmt="000" nomor="401" undian="1" stage="STOPWATCH">
+                <Bidang name="TAHFIDZ"                      min="0" max="50" urut="1" interval="2"/>
+                <Bidang name="TAJWID"                       min="0" max="25" urut="2" interval="2"/>
+                <Bidang name="FASHAHAH"                     min="0" max="25" urut="3" interval="2"/>
+            </Golongan>
+            <Golongan name="30 JUZ" unsur="0" bobot="0" personil="1" gender="1" waktu="1" topik="0" umur="23" time="0" warn="0" fmt="000" nomor="501" undian="1" stage="STOPWATCH">
+                <Bidang name="TAHFIDZ"                      min="0" max="50" urut="1" interval="2"/>
+                <Bidang name="TAJWID"                       min="0" max="25" urut="2" interval="2"/>
+                <Bidang name="FASHAHAH"                     min="0" max="25" urut="3" interval="2"/>
+            </Golongan>
+        </Cabang>
+        <!-- TAFSIR AL-QUR'AN -->
+        <Cabang name="TAFSIR AL-QUR'AN" type="penjurian1">
+            <Golongan name="BAHASA ARAB" unsur="0" bobot="0" personil="1" gender="1" waktu="1" topik="0" umur="23" time="0" warn="0" fmt="000" nomor="101" undian="1" stage="STOPWATCH">
+                <Bidang name="TAFSIR"                       min="0" max="100" urut="1" interval="3"/>
+                <Bidang name="TAHFIDZ"                      min="0" max="50" urut="2" interval="2"/>
+                <Bidang name="TAJWID"                       min="0" max="25" urut="3" interval="2"/>
+                <Bidang name="FASHAHAH"                     min="0" max="25" urut="4" interval="2"/>
+            </Golongan>
+        </Cabang>
+        <!-- HAFALAN HADITS -->
+        <Cabang name="HAFALAN HADITS" type="penjurian1">
+            <Golongan name="100 HADITS DENGAN SANAD" unsur="0" bobot="0" personil="1" gender="1" waktu="1" topik="0" umur="23" time="0" warn="0" fmt="000" nomor="101" undian="1" stage="STOPWATCH">
+                <Bidang name="TAHFIDZ"                      min="0" max="50" urut="1" interval="2"/>
+                <Bidang name="TAJWID"                       min="0" max="25" urut="2" interval="2"/>
+                <Bidang name="FASHAHAH"                     min="0" max="25" urut="3" interval="2"/>
+            </Golongan>
+            <Golongan name="500 HADITS TANPA SANAD" unsur="0" bobot="0" personil="1" gender="1" waktu="1" topik="0" umur="23" time="0" warn="0" fmt="000" nomor="201" undian="1" stage="STOPWATCH">
+                <Bidang name="TAHFIDZ"                      min="0" max="50" urut="1" interval="2"/>
+                <Bidang name="TAJWID"                       min="0" max="25" urut="2" interval="2"/>
+                <Bidang name="FASHAHAH"                     min="0" max="25" urut="3" interval="2"/>
+            </Golongan>
+        </Cabang>
+    </Datas>
+</Manifest>
+<!-- EOF -->
