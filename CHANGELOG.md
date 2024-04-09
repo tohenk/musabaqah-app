@@ -1,3 +1,32 @@
+### Musabaqah v1.2.0 (Tue Apr  9 17:26:51 CUT 2024)
+
+Changes v1.1.0..v1.2.0:
+
+* debe60c Checkout release repository lately.
+
+* 013002e Use workdir for updated manifests.
+
+* 7d0bce3 Update TODO.
+
+* 64751a3 Implement manifest update from Github.
+
+* 6c10fb6 Don't set column size when form field label is hidden.
+
+* 116f44a Update app about year.
+
+* 0e40ee7 Update splash image.
+
+* 0c92996 Refactor model object function definition.
+
+* 8662a22 Group manifests and use manifest name as alias.
+
+* e0b5018 Add more translation for text.
+
+* 4accdc9 Make participant registration form width smaller.
+
+* c15e16c Use favicon as window icon.
+
+
 ### Musabaqah v1.1.0 (Mon Apr  8 12:43:34 CUT 2024)
 
 Changes v1.0.28..v1.1.0:
