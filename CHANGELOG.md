@@ -1,3 +1,20 @@
+### Musabaqah v1.3.0 (Fri Apr 12 17:48:15 CUT 2024)
+
+Changes v1.2.0..v1.3.0:
+
+* 975e75c Use face capture using a proxy.
+
+* baaffe8 Add camera proxy.
+
+* 6a5cca7 Custom title bar and addons now can be disabled.
+
+* fa5648c Pass controller name when scanning.
+
+* 4ea4f19 Fix OpenCV not working if app is packaged.
+
+* 9b34848 Update Sequelize api.
+
+
 ### Musabaqah v1.2.0 (Tue Apr  9 17:26:51 CUT 2024)
 
 Changes v1.1.0..v1.2.0:
