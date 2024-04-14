@@ -1,3 +1,16 @@
+### Musabaqah v1.4.0 (Sun Apr 14 15:30:55 CUT 2024)
+
+Changes v1.3.0..v1.4.0:
+
+* 7425003 Build legacy release and apply patches.
+
+* 20fc22b Switch electron to version 29.
+
+* 5e871d5 Support Electron Forge to build legacy release.
+
+* 73dd732 Expose Node.js, Chrome, and Electron on about.
+
+
 ### Musabaqah v1.3.0 (Fri Apr 12 17:48:15 CUT 2024)
 
 Changes v1.2.0..v1.3.0:
