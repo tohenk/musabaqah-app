@@ -1,3 +1,10 @@
+### Musabaqah v1.4.1 (Sun Apr 14 17:05:22 CUT 2024)
+
+Changes v1.4.0..v1.4.1:
+
+* 8802b54 Fix face acquire empty on scoring.
+
+
 ### Musabaqah v1.4.0 (Sun Apr 14 15:30:55 CUT 2024)
 
 Changes v1.3.0..v1.4.0:
