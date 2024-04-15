@@ -1,3 +1,18 @@
+### Musabaqah v1.5.0 (Mon Apr 15 11:21:37 CUT 2024)
+
+Changes v1.4.1..v1.5.0:
+
+* 63ee725 Apply script minification when not debugging.
+
+* afb7d87 Provide Bootstrap modal/dialogue icon.
+
+* 9db9f83 Collect all IPC channels.
+
+* 7438f68 Auto start camera proxy.
+
+* 1b59c00 Improve camera proxy window close.
+
+
 ### Musabaqah v1.4.1 (Sun Apr 14 17:05:22 CUT 2024)
 
 Changes v1.4.0..v1.4.1:
