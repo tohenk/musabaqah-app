@@ -1,3 +1,10 @@
+### Musabaqah v1.5.1 (Tue Apr 16 13:29:11 CUT 2024)
+
+Changes v1.5.0..v1.5.1:
+
+* 0efd11e Preserve dot files.
+
+
 ### Musabaqah v1.5.0 (Mon Apr 15 11:21:37 CUT 2024)
 
 Changes v1.4.1..v1.5.0:
