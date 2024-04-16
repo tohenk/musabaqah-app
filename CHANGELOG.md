@@ -1,3 +1,16 @@
+### Musabaqah v1.6.0 (Tue Apr 16 16:44:28 CUT 2024)
+
+Changes v1.5.1..v1.6.0:
+
+* 4550bdc Load extension on afterPoolAcquire.
+
+* f87e43e Do not focus app when receiving stream.
+
+* 4f3d840 Fix video stream resolve only after confirmation.
+
+* 0014938 Fix photo element selector when participant number changed.
+
+
 ### Musabaqah v1.5.1 (Tue Apr 16 13:29:11 CUT 2024)
 
 Changes v1.5.0..v1.5.1:
