@@ -1,3 +1,10 @@
+### Musabaqah v1.7.0 (Sat Feb  1 16:49:49 CUT 2025)
+
+Changes v1.6.0..v1.7.0:
+
+* 384a4b6 Update external library.
+
+
 ### Musabaqah v1.6.0 (Tue Apr 16 16:44:28 CUT 2024)
 
 Changes v1.5.1..v1.6.0:
