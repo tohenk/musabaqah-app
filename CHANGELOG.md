@@ -1,3 +1,26 @@
+### Musabaqah v1.8.0 (Mon Jun  9 11:29:30 CUT 2025)
+
+Changes v1.7.0..v1.8.0:
+
+* 0641f65 Use new Cropper API.
+
+* d8a8393 Update manifests.
+
+* 2fa5256 Update Kode Wilayah fixture.
+
+* 25ccb92 Enable extended query parser.
+
+* 4ef3d8a Skip DataGrid status role while calculating body height.
+
+* 02ebea8 Add password toggler.
+
+* 931dc22 Improve widget matcher.
+
+* 3ae391e Bump dependencies.
+
+* 3dc6c61 Update runtime.
+
+
 ### Musabaqah v1.7.0 (Sat Feb  1 16:49:49 CUT 2025)
 
 Changes v1.6.0..v1.7.0:
