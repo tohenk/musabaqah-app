@@ -167,6 +167,10 @@
                 <Bidang name="UNSUR SENI RUPA"              min="0" max="50" urut="2" interval="2" hakim="3"/>
                 <Bidang name="SENTUHAN AKHIR"               min="0" max="20" urut="3" interval="2" hakim="3"/>
             </Golongan>
+            <Golongan name="DIGITAL" unsur="0" bobot="0" personil="1" gender="1" waktu="0" topik="0" umur="35" time="0" warn="0" fmt="000" stage="STOPWATCH">
+                <Bidang name="UNSUR KALIGRAFI"              min="0" max="40" urut="1" interval="2" hakim="3"/>
+                <Bidang name="UNSUR DESAIN"                 min="0" max="60" urut="2" interval="2" hakim="3"/>
+            </Golongan>
         </Cabang>
         <!-- KARYA TULIS ILMIAH AL-QUR'AN -->
         <Cabang name="KARYA TULIS ILMIAH AL-QUR'AN" type="penjurian3">
