@@ -1,3 +1,28 @@
+### Musabaqah v2.0.0 (Thu Jul 17 04:13:46 CUT 2025)
+
+Changes v1.8.0..v2.0.0:
+
+* a218216 Make Tfjs compatible when packaged.
+
+* 7bf251e Handle Tfjs-node initialization.
+
+* 238304e Fix form query to include id only if not grouped.
+
+* e27932e Align middle both icon and wizard title.
+
+* bd29638 Run face detection first for faster recognition.
+
+* 1bed0de Store face features for recognition.
+
+* 55217c6 Update splash image.
+
+* c4ad78a Simplify Electron API call.
+
+* a61bcc0 Refactor main app configuration.
+
+* 1109dfe Remove OpenCV.
+
+
 ### Musabaqah v1.8.0 (Mon Jun  9 11:29:30 CUT 2025)
 
 Changes v1.7.0..v1.8.0:
