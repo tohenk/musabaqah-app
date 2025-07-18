@@ -1,3 +1,12 @@
+### Musabaqah v2.0.1 (Fri Jul 18 13:00:55 CUT 2025)
+
+Changes v2.0.0..v2.0.1:
+
+* 622e1b9 Fix wizard icon align to middle.
+
+* 514d579 Fix participant import with non compliant data.
+
+
 ### Musabaqah v2.0.0 (Thu Jul 17 04:13:46 CUT 2025)
 
 Changes v1.8.0..v2.0.0:
