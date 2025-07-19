@@ -1,3 +1,10 @@
+### Musabaqah v2.0.2 (Sat Jul 19 12:56:05 CUT 2025)
+
+Changes v2.0.1..v2.0.2:
+
+* 386ffe8 Bump face and fingerprint identity.
+
+
 ### Musabaqah v2.0.1 (Fri Jul 18 13:00:55 CUT 2025)
 
 Changes v2.0.0..v2.0.1:
