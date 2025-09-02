@@ -5,6 +5,7 @@ Aplikasi Musabaqah adalah alat bantu kepesertaan dan penilaian pada MTQ/STQ yang
 ## Prasyarat
 
 * DigitalPersona U.are.U SDK
+* [Microsoft Visual C++ Redistributable](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170)
 
 ## Fitur
 
