@@ -1,3 +1,20 @@
+### Musabaqah v2.1.0 (Sat Sep  6 09:30:56 CUT 2025)
+
+Changes v2.0.2..v2.1.0:
+
+* 4a0ab55 QA now categorized.
+
+* 0e300b2 Supports extract QA from Excel.
+
+* 2d7e9b9 Enable show summary when using mean scoring.
+
+* daf22a5 Add Tensorflow dependency to Microsoft Visual C++ Redistributable.
+
+* ec0562c Allows to select preferred identification method.
+
+* aa9669f Bump dependencies.
+
+
 ### Musabaqah v2.0.2 (Sat Jul 19 12:56:05 CUT 2025)
 
 Changes v2.0.1..v2.0.2:
