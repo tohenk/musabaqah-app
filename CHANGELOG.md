@@ -1,3 +1,14 @@
+### Musabaqah v2.2.0 (Fri Sep 12 13:43:18 CUT 2025)
+
+Changes v2.1.0..v2.2.0:
+
+* b1b5a29 Bump dependencies.
+
+* 039047f Late notify when opening camera proxy.
+
+* f00c961 Don't fail when camera proxy port 80 is already occupied.
+
+
 ### Musabaqah v2.1.0 (Sat Sep  6 09:30:56 CUT 2025)
 
 Changes v2.0.2..v2.1.0:
