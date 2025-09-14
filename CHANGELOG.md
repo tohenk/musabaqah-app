@@ -1,3 +1,24 @@
+### Musabaqah v2.3.0 (Sun Sep 14 14:58:18 CUT 2025)
+
+Changes v2.2.0..v2.3.0:
+
+* 2f31f2d Align score in journal.
+
+* 07dbfc7 Disable status bar text wrap.
+
+* 3d3d80d Align registration print menu to up end.
+
+* 99d1b93 Allows to pass body class to layout.
+
+* 79889d7 Align right sidebar sub menu.
+
+* ce31087 Use black color for print media.
+
+* 63cc90d Switch HTML element attribute access to data.
+
+* b1ec2bd Improve window and webContents handling.
+
+
 ### Musabaqah v2.2.0 (Fri Sep 12 13:43:18 CUT 2025)
 
 Changes v2.1.0..v2.2.0:
