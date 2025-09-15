@@ -1,3 +1,14 @@
+### Musabaqah v2.4.0 (Mon Sep 15 17:46:41 CUT 2025)
+
+Changes v2.3.0..v2.4.0:
+
+* d994f39 Fix group data association reference.
+
+* 233ef5a Implement participant presence.
+
+* cdb48ca Fix participant number empty check.
+
+
 ### Musabaqah v2.3.0 (Sun Sep 14 14:58:18 CUT 2025)
 
 Changes v2.2.0..v2.3.0:
