@@ -1,3 +1,10 @@
+### Musabaqah v2.4.1 (Thu Sep 18 02:56:33 CUT 2025)
+
+Changes v2.4.0..v2.4.1:
+
+* ef4d6b6 Fix QA bank numbers picker when count is less then expected.
+
+
 ### Musabaqah v2.4.0 (Mon Sep 15 17:46:41 CUT 2025)
 
 Changes v2.3.0..v2.4.0:
