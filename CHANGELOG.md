@@ -1,3 +1,12 @@
+### Musabaqah v2.5.0 (Thu Sep 18 15:39:26 CUT 2025)
+
+Changes v2.4.1..v2.5.0:
+
+* a7f323c Fix possibly lock up when scrambling QA number.
+
+* 8cd5110 Introduce timer stage for presentation.
+
+
 ### Musabaqah v2.4.1 (Thu Sep 18 02:56:33 CUT 2025)
 
 Changes v2.4.0..v2.4.1:
